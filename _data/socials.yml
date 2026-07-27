@@ -1,14 +1,15 @@
-email: hannah.rajski@uni-mannheim.de 
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+#
+# NOTE: your email is automatically obfuscated at build time by the jekyll-email-protect
+# plugin, so the plain address below is safe from scrapers/bots.
+email: hannah.rajski@uni-mannheim.de
 rss_icon: true # comment this line to hide the RSS icon
-
-# ---------------------------------------------------------------------------
-# TODO (Hannah): fill in the values below, then uncomment the lines you want.
-# Any line left commented simply won't show an icon.
-# ---------------------------------------------------------------------------
-scholar_userid: 9p0h2YUAAAAJ          
-orcid_id: 0000-0002-3231-7016     
-linkedin_username: hannah-rajski  
-github_username: hannahrajski    
-# researchgate_profile: Your-Name   # the part after researchgate.net/profile/
+scholar_userid: 9p0h2YUAAAAJ # Google Scholar — the "user=" value in your profile URL
+orcid_id: 0000-0002-3231-7016
+linkedin_username: hannah-rajski
+github_username: hannahrajski
 bluesky_url: https://bsky.app/profile/hannahrajski.bsky.social
-# cv_pdf: /assets/pdf/your_cv.pdf    # upload a PDF to assets/pdf/ first
+# researchgate_profile: Your-Name # the part after researchgate.net/profile/
+# cv_pdf: /assets/pdf/your_cv.pdf # upload a PDF to assets/pdf/ first

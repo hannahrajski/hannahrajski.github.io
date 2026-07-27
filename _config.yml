@@ -21,7 +21,7 @@ icon: hannahrajski.jpg # favicon: image name in /assets/img/ (or an emoji, e.g. 
 url: https://hannahrajski.github.io
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root (as here, since this is a username.github.io site served at the root)
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: /impressum/ # path to the impressum page; adds an "Impressum" link in the footer
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
@@ -85,7 +85,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true

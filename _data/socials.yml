@@ -5,7 +5,6 @@
 # NOTE: your email is automatically obfuscated at build time by the jekyll-email-protect
 # plugin, so the plain address below is safe from scrapers/bots.
 email: hannah.rajski@uni-mannheim.de
-rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 9p0h2YUAAAAJ # Google Scholar — the "user=" value in your profile URL
 orcid_id: 0000-0002-3231-7016
 linkedin_username: hannah-rajski

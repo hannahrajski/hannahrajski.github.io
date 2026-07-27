@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Candidate in Political Science · University of Mannheim, <a href='https://www.mzes.uni-mannheim.de/en/'>MZES</a> · <a href='https://zweitstimme.org/'>Zweitstimme.org</a>
+subtitle: Doctoral Candidate in Political Science · <a href='https://www.mzes.uni-mannheim.de/en/'>MZES</a> · <a href='https://zweitstimme.org/'>Zweitstimme.org</a>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -25,5 +25,10 @@ latest_posts:
 ---
 Hi! I am a doctoral candidate in Political Science at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/programs/cdss/) in Mannheim.
 Based at the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/en/), I work within the DFG-funded project "Election Forecasts for the German Federal Election 2025" ([Zweitstimme.org](https://zweitstimme.org/)).
-My research focuses on electoral behaviour and election forecasting. In my dissertation, I investigate voters' expectations about election outcomes, what drives accuracy in these expectations, and how they can be aggregated into citizen forecasts.
+
+
+My research focuses on electoral behaviour and election forecasting. 
+In my dissertation, I investigate voters' expectations about election outcomes, what drives accuracy in these expectations, and how they can be aggregated into citizen forecasts.
+
+
 I hold an MA from the University of Konstanz, with a semester at the University of Essex, and a BA from Zeppelin University, with a semester abroad in Bergen.

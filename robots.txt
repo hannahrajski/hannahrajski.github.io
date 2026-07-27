@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hannahrajski.github.io/hannahrajski.github.io/sitemap.xml
+Sitemap: https://hannahrajski.github.io/sitemap.xml

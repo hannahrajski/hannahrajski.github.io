@@ -115,16 +115,6 @@ ul#tabs a {
   background-color: #1e1e1e;
 }
 
-#header .header-bar {
-  background: #1e1e1e;
-  background-color: #1e1e1e;
-}
-
-body > #header .header-bar {
-  width: 100%;
-  background: #1e1e1e;
-}
-
 .navbar {
   border: none;
 }
@@ -578,14 +568,6 @@ input.raw_input {
   margin: 0em 0.25em;
   -webkit-box-shadow: none;
   box-shadow: none;
-}
-
-audio,
-video {
-  display: inline;
-  vertical-align: middle;
-  align-content: center;
-  margin-left: 20%;
 }
 
 

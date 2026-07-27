@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The [Summer School for Women* in Political Methodology](https://summerschoolwpm.org/summer-school-2026/) has begun in Mannheim!
+We have kicked of the 2026 [Summer School for Women* in Political Methodology](https://summerschoolwpm.org/summer-school-2026/) in Mannheim!

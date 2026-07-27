@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-09-17
+date: 2026-07-19
 inline: true
 related_posts: false
 ---
 
-I will be at EPOP in Liverpool.
+The [Summer School for Women* in Political Methodology](https://summerschoolwpm.org/summer-school-2026/) has begun in Mannheim!

@@ -32,3 +32,5 @@ In my dissertation, I investigate voters' expectations about election outcomes, 
 
 
 I hold an MA from the University of Konstanz, with a semester at the University of Essex, and a BA from Zeppelin University, with a semester abroad in Bergen.
+
+I am co-initiator of FLINTA* Square, a network for women, lesbian, intersex, non-binary, trans, and agender social scientists in Mannheim, together with (Antonia May)[https://mayantonia.github.io/], (Lisa-Marie Müller)[https://www.uni-mannheim.de/gess/programs/cdss/our-students/2023/lisa-marie-mueller/], and (Malena Ullrich)[https://www.uni-mannheim.de/gess/programs/cdss/our-students/2024/malena-ullrich/] If you are based in Mannheim and would like to join, please get in touch. 

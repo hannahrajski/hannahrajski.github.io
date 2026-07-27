@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-07-19
+date: 2025-05-21
 inline: true
 related_posts: false
 ---
 
-The [Summer School for Women* in Political Methodology](https://summerschoolwpm.org/summer-school-2026/) has begun in Mannheim!
+I presented our (Zweitstimme.org)[zweitstimme.org) work on forecasting the 2025 German Federal Election together with Cornelius Erfort at the (MZES Social Science Data Lab)[https://youtu.be/iQXUQ3NsKsk?si=cWak77BJrApya_qH]!

@@ -5,7 +5,7 @@ permalink: /
 subtitle: Doctoral Candidate in Political Science · <a href='https://www.mzes.uni-mannheim.de/en/'>MZES</a> · <a href='https://zweitstimme.org/'>Zweitstimme.org</a>
 
 profile:
-  align: right
+  align: left
   image: hannahrajski.jpg
   image_circular: false # crops the image to make it circular
   more_info:

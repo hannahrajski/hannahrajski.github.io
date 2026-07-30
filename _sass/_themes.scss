@@ -206,3 +206,8 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+/* al_folio_core's about layout bolds the first name in the page title; unbold it here. */
+.post-title .font-weight-bold {
+  font-weight: normal;
+}

@@ -5,11 +5,15 @@ permalink: /
 subtitle: Doctoral Candidate in Political Science · <a href='https://www.mzes.uni-mannheim.de/en/'>MZES</a> · <a href='https://zweitstimme.org/'>Zweitstimme.org</a>
 
 profile:
-  align: right
+  align: left
   image: hannahrajski.jpg
   image_circular: false # crops the image to make it circular
+<<<<<<< HEAD
   more_info: >
     <p style="font-size: 0.75em; color: #888;">Photo: Uni Mannheim - Alexander Münch</p>
+=======
+  more_info: <sub> Uni Mannheim - Alexander Münch </sub>
+>>>>>>> 435110f6de991d6b4a9a930943d4596239eabd05
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +25,14 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true 
+  limit: 3
 ---
-Hi! I am a doctoral candidate in Political Science at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/programs/cdss/) in Mannheim.
+Welcome! I am a doctoral candidate in Political Science at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/programs/cdss/) in Mannheim.
 Based at the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/en/), I work within the DFG-funded project "Election Forecasts for the German Federal Election 2025" ([Zweitstimme.org](https://zweitstimme.org/)).
 
 
-My research focuses on electoral behaviour and election forecasting.
+My research focuses on electoral behavior and election forecasting.
 In my dissertation, I investigate voters' expectations about election outcomes, what drives accuracy in these expectations, and how they can be aggregated into citizen forecasts.
 
 

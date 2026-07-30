@@ -8,12 +8,8 @@ profile:
   align: left
   image: hannahrajski.jpg
   image_circular: false # crops the image to make it circular
-<<<<<<< HEAD
   more_info: >
     <p style="font-size: 0.75em; color: #888;">Photo: Uni Mannheim - Alexander Münch</p>
-=======
-  more_info: <sub> Uni Mannheim - Alexander Münch </sub>
->>>>>>> 435110f6de991d6b4a9a930943d4596239eabd05
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

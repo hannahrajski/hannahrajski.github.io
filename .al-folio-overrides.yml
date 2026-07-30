@@ -1,0 +1,7 @@
+overrides:
+  - path: _sass/_themes.scss
+    owner_gem: al_folio_core
+    owner_version: "1.0.11"
+    upstream_sha256: b581e43dcfbf21c14f388e2b585474c886fad62f6b5a0444f7832e7f69745f1f
+    local_sha256: 860137372a18eb645013bab278877c776613ed47fd05f3e7a5d0330ff5de80f4
+    reason: Site-wide accent/link color changed from the theme default (purple/cyan) to #c2107a in both light and dark mode.

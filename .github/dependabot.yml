@@ -1,0 +1,15 @@
+# Dependabot keeps dependencies up to date by opening pull requests on GitHub.
+# Docs: https://docs.github.com/code-security/dependabot/dependabot-version-updates
+version: 2
+updates:
+  # Ruby gems (the al-folio theme and Jekyll plugins, from the Gemfile)
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    # Bundle all al-folio gems into a single PR so the coordinated set stays in sync.
+    groups:
+      al-folio:
+        patterns:
+          - "al_*"

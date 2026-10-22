@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh run *)",
+      "PowerShell(gh run list --limit 8 2>&1)",
+      "Bash(find / -iname \"about.liquid\" 2>/dev/null | grep -v node_modules)",
+      "WebFetch(domain:github.com)",
+      "Bash(curl -fsS https://raw.githubusercontent.com/al-org-dev/al-folio-core/main/_sass/_variables.scss)",
+      "Bash(grep -n '^\\\\$grey-color-dark\\\\|^\\\\$grey-color-light\\\\|^\\\\$white-color\\\\|^\\\\$black-color\\\\|^\\\\$grey-900')",
+      "Bash(git rm *)",
+      "Bash(python3 -)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}

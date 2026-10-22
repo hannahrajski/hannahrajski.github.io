@@ -1,10 +1,14 @@
 name: Update Google Scholar Citations
 
 on:
-  schedule:
-    - cron: "0 0 * * 1" # Monday
-    - cron: "0 0 * * 3" # Wednesday
-    - cron: "0 0 * * 5" # Friday
+  # Scheduled runs are disabled: Google Scholar blocks scraping from GitHub's
+  # runners, so the job failed on every scheduled run. You can still trigger it
+  # manually from the Actions tab via "Run workflow" (it only succeeds with a
+  # scraping proxy configured).
+  # schedule:
+  #   - cron: "0 0 * * 1" # Monday
+  #   - cron: "0 0 * * 3" # Wednesday
+  #   - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
 jobs:
